@@ -98,19 +98,6 @@ Los créditos del proyecto, por orden alfabético son los siguientes:
 
 ---
 
-**Desarrollador**: [Romero Valentin]
-
-**Mail**: [valeen.n.vr@gmail.com]
-
-**Usuario**:valentinrxk
-
-**Repositorio Personal**: [https://github.com/valentinrxk]
-
-**Repositorio Grupal**: [https://github.com/GDSegovia/Grupo_3.git]
-
-
----
-
 **Desarrollador**: [Basile Ramonda Pablo Emiliano]
 
 **Mail**: [pablo.basile32@gmail.com]
