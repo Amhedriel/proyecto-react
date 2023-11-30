@@ -155,7 +155,7 @@ Para un eshop de autos de juguete, se eligió una paleta de colores que sea acor
 
 la paleta de colores que usamos para el proyecto:
 
-| TONO    |            | HEXA  |
+| TONO    |              | HEXA  |
 | ---|:---:|---:|
 | **Azul oscuro**  | : | #333399 |
 | **Azul claro** | : | #99CCFF |
