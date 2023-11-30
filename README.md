@@ -96,6 +96,7 @@ Los créditos del proyecto, por orden alfabético son los siguientes:
 
 **Repositorio Grupal**: [https://github.com/GDSegovia/Grupo_3.git]
 
+
 ---
 
 **Desarrollador**: [Basile Ramonda Pablo Emiliano]
